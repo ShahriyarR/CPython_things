@@ -8,6 +8,9 @@
 * Please if you see something new then send PR with new related information.
 * Expected to be huge README file.
 
+## Books:
+1. Inside The Python Virtual Machine:  https://leanpub.com/insidethepythonvirtualmachine
+
 ## Blog posts:
 1. Python/C API functions - sum/add 2 integers: https://pytricks.quora.com/Python-C-API-functions-sum-add-2-integers
 
