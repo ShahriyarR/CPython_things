@@ -8,6 +8,10 @@
 * Please if you see something new then send PR with new related information.
 * Expected to be huge README file.
 
+## Blog posts:
+Python/C API functions - sum/add 2 integers: https://pytricks.quora.com/Python-C-API-functions-sum-add-2-integers
+Why ‘int’ object is not iterable - because tp_iter is NULL: https://pytricks.quora.com/Why-int-object-is-not-iterable-because-tp_iter-is-NULL
+
 ## Video Materials/Talks:
 
 1. CPython internals: A ten-hour codewalk through the Python interpreter source code: https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S [+]
