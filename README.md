@@ -34,7 +34,9 @@ Profiling CPython at Instagram: https://instagram-engineering.com/profiling-cpyt
 9. Anjana Vakil - Exploring Python Bytecode: https://www.youtube.com/watch?v=GNPKBICTF2w [+]
 
 10. So you want to write an interpreter?: https://www.youtube.com/watch?v=LCslqgM48D4 [+] (Watch this again to catch in future!!!)
+
 Related things:
+
 From Source to Code: How CPython's Compiler Works - Brett Cannon: https://www.youtube.com/watch?v=R31NRWgoIWM [+]
 
 11. CPython - Bytecode and Virtual Machine - Stephane Wirtel: https://www.youtube.com/watch?v=45BhX5wSeVs [+] (you can use slides from this talk)
