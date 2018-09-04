@@ -1,6 +1,6 @@
 # CPython_things
 
-##This repo will consist links and resources related to CPython.
+## This repo will consist links and resources related to CPython.
 
 * Aimed to be the open place for CPython things.
 * Will add blog posts, books or maybe some interesting notes related CPython.
