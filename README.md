@@ -9,9 +9,11 @@
 * Expected to be huge README file.
 
 ## Blog posts:
-Python/C API functions - sum/add 2 integers: https://pytricks.quora.com/Python-C-API-functions-sum-add-2-integers
-Why ‘int’ object is not iterable - because tp_iter is NULL: https://pytricks.quora.com/Why-int-object-is-not-iterable-because-tp_iter-is-NULL
-Profiling CPython at Instagram: https://instagram-engineering.com/profiling-cpython-at-instagram-89d4cbeeb898
+1. Python/C API functions - sum/add 2 integers: https://pytricks.quora.com/Python-C-API-functions-sum-add-2-integers
+
+2. Why ‘int’ object is not iterable - because tp_iter is NULL: https://pytricks.quora.com/Why-int-object-is-not-iterable-because-tp_iter-is-NULL
+
+3. Profiling CPython at Instagram: https://instagram-engineering.com/profiling-cpython-at-instagram-89d4cbeeb898
 
 ## Video Materials/Talks:
 
