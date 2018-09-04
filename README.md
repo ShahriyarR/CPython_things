@@ -38,8 +38,11 @@ Related things:
 From Source to Code: How CPython's Compiler Works - Brett Cannon: https://www.youtube.com/watch?v=R31NRWgoIWM [+]
 
 11. CPython - Bytecode and Virtual Machine - Stephane Wirtel: https://www.youtube.com/watch?v=45BhX5wSeVs [+] (you can use slides from this talk)
+
 Extra links: https://wirtel.be/talk/
+
 Seems to be same thing -> https://www.youtube.com/watch?v=ZkAc6hzGun4 [+]
+
 Seems to be same thing but a bit different may whatch it again maybe -> https://www.youtube.com/watch?v=pEwewgHQr74 [+]
 
 12. Armin Ronacher – Binary Python: Introducing Native Code: https://www.youtube.com/watch?v=yhiHmBE9fNU [+]
