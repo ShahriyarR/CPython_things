@@ -20,7 +20,7 @@ Find us here -> [FB Group](https://www.facebook.com/groups/python.az/) and here 
 
 3. [Profiling CPython at Instagram](https://instagram-engineering.com/profiling-cpython-at-instagram-89d4cbeeb898)
 
-4. [Nice mixed of topics in Turkish ysar.net](http://ysar.net/)
+4. [Nice mixed internal topics in Turkish ysar.net](http://ysar.net/python/)
 
 5. [Getting Started with Python Internals](https://medium.com/@dawran6/getting-started-with-python-internals-a5474ccb8022)
 
