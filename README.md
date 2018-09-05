@@ -105,3 +105,6 @@ Watch it again to get what is Lexer and Parser basically.
 
 24. [A. Skrobov - How CPython parser works, and how to make it work better](https://www.youtube.com/watch?v=qq6eHivQOjI) [+]
 
+25. [What's up with th@? Adding an Operator to CPython](https://www.youtube.com/watch?v=dQF1hBuQYZE)[+]
+Nice slides - can be used for further explorations.
+
