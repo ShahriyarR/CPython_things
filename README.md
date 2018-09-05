@@ -105,8 +105,12 @@ Watch it again to get what is Lexer and Parser basically.
 
 24. [A. Skrobov - How CPython parser works, and how to make it work better](https://www.youtube.com/watch?v=qq6eHivQOjI) [+]
 
-25. [What's up with th@? Adding an Operator to CPython](https://www.youtube.com/watch?v=dQF1hBuQYZE)[+]
+25. [What's up with th@? Adding an Operator to CPython](https://www.youtube.com/watch?v=dQF1hBuQYZE) [+]
 
 Nice slides - can be used for further explorations. **This is about adding new operator into CPython**
 
-26. [Larry Hastings - Removing Python's GIL: The Gilectomy - PyCon 2016](https://www.youtube.com/watch?v=P3AyI_u66Bw)
+26. [Larry Hastings - Removing Python's GIL: The Gilectomy - PyCon 2016](https://www.youtube.com/watch?v=P3AyI_u66Bw) [+]
+
+27. [Larry Hastings The Gilectomy How's It Going PyCon 2017](https://www.youtube.com/watch?v=pLqv11ScGsQ) [-]
+
+28. [Larry Hastings - Python's Infamous GIL](https://www.youtube.com/watch?v=4zeHStBowEk) [-]
