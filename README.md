@@ -11,14 +11,16 @@ Find us here -> [FB Group](https://www.facebook.com/groups/python.az/) and here 
 * I speak English, Russian and Turkish. Please do not be surprised.
 
 ## Books:
-1. Inside The Python Virtual Machine:  https://leanpub.com/insidethepythonvirtualmachine
+1. [Inside The Python Virtual Machine](https://leanpub.com/insidethepythonvirtualmachine)
 
 ## Blog posts:
-1. Python/C API functions - sum/add 2 integers: https://pytricks.quora.com/Python-C-API-functions-sum-add-2-integers
+1. [Python/C API functions - sum/add 2 integers](https://pytricks.quora.com/Python-C-API-functions-sum-add-2-integers)
 
-2. Why ‘int’ object is not iterable - because tp_iter is NULL: https://pytricks.quora.com/Why-int-object-is-not-iterable-because-tp_iter-is-NULL
+2. [Why ‘int’ object is not iterable - because tp_iter is NULL](https://pytricks.quora.com/Why-int-object-is-not-iterable-because-tp_iter-is-NULL)
 
-3. Profiling CPython at Instagram: https://instagram-engineering.com/profiling-cpython-at-instagram-89d4cbeeb898
+3. [Profiling CPython at Instagram](https://instagram-engineering.com/profiling-cpython-at-instagram-89d4cbeeb898)
+
+4. [Nice mixed of topics in Turkish ysar.net](http://ysar.net/)
 
 ## Video Materials/Talks:
 
