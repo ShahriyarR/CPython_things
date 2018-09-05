@@ -1,12 +1,14 @@
 # CPython_things
+## From Azerbaijan Python User Group for the world.
+Find us here -> [FB Group](https://www.facebook.com/groups/python.az/) and here [Telegram Group](https://t.me/azepug)
 
-## This repo will consist links and resources related to CPython.
-
+## This repo will consist links and resources related to CPython:
 * Aimed to be the open place for CPython things.
 * Will add blog posts, books or maybe some interesting notes related CPython.
 * Especially interested in adding more video links from conferences which I have found with my own notes.
 * Please if you see something new then send PR with new related information.
 * Expected to be huge README file.
+* I speak English, Russian and Turkish. Please do not be surprised.
 
 ## Books:
 1. Inside The Python Virtual Machine:  https://leanpub.com/insidethepythonvirtualmachine
