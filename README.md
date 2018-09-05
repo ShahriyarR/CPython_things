@@ -13,6 +13,9 @@ Find us here -> [FB Group](https://www.facebook.com/groups/python.az/) and here 
 ## Books:
 1. [Inside The Python Virtual Machine](https://leanpub.com/insidethepythonvirtualmachine)
 
+## Repos:
+1. [Python module to modify bytecode ](https://github.com/vstinner/bytecode)
+
 ## Blog posts:
 1. [Python/C API functions - sum/add 2 integers](https://pytricks.quora.com/Python-C-API-functions-sum-add-2-integers)
 
