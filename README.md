@@ -24,7 +24,7 @@ Find us here -> [FB Group](https://www.facebook.com/groups/python.az/) and here 
 
 5. [Getting Started with Python Internals](https://medium.com/@dawran6/getting-started-with-python-internals-a5474ccb8022)
 
-6. [Eli Bendersky Python Internals blog](https://eli.thegreenplace.net/tag/python-internals)
+6. [Eli Bendersky's Python Internals blog](https://eli.thegreenplace.net/tag/python-internals)
 
 ## Video Materials/Talks:
 
