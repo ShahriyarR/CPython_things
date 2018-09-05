@@ -102,3 +102,6 @@ Modules:
 23. [David Beazley - Reinventing the Parser Generator - PyCon 2018](https://www.youtube.com/watch?v=zJ9z6Ge-vXs) [+]
 Explaining how actually the Lexer and YACC works. About Sly and Ply project.
 Watch it again to get what is Lexer and Parser basically.
+
+24. [A. Skrobov - How CPython parser works, and how to make it work better](https://www.youtube.com/watch?v=qq6eHivQOjI) [+]
+
