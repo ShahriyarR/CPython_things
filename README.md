@@ -109,3 +109,4 @@ Watch it again to get what is Lexer and Parser basically.
 
 Nice slides - can be used for further explorations. **This is about adding new operator into CPython**
 
+26. [Larry Hastings - Removing Python's GIL: The Gilectomy - PyCon 2016](https://www.youtube.com/watch?v=P3AyI_u66Bw)
