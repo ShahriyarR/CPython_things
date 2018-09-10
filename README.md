@@ -116,7 +116,7 @@ Nice slides - can be used for further explorations. **This is about adding new o
 
 26. [Larry Hastings - Removing Python's GIL: The Gilectomy - PyCon 2016](https://www.youtube.com/watch?v=P3AyI_u66Bw) [+]
 
-27. [Larry Hastings The Gilectomy How's It Going PyCon 2017](https://www.youtube.com/watch?v=pLqv11ScGsQ) [-]
+27. [Larry Hastings The Gilectomy How's It Going PyCon 2017](https://www.youtube.com/watch?v=pLqv11ScGsQ) [+]
 Techincally in-depth advance talk which is hard to catch for me now. But it is a matter of time.
 
 28. [Larry Hastings - Python's Infamous GIL](https://www.youtube.com/watch?v=4zeHStBowEk) [+]
