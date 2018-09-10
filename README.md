@@ -118,4 +118,4 @@ Nice slides - can be used for further explorations. **This is about adding new o
 
 27. [Larry Hastings The Gilectomy How's It Going PyCon 2017](https://www.youtube.com/watch?v=pLqv11ScGsQ) [-]
 
-28. [Larry Hastings - Python's Infamous GIL](https://www.youtube.com/watch?v=4zeHStBowEk) [-]
+28. [Larry Hastings - Python's Infamous GIL](https://www.youtube.com/watch?v=4zeHStBowEk) [+]
