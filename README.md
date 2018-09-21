@@ -120,3 +120,6 @@ Nice slides - can be used for further explorations. **This is about adding new o
 Techincally in-depth advance talk which is hard to catch for me now. But it is a matter of time.
 
 28. [Larry Hastings - Python's Infamous GIL](https://www.youtube.com/watch?v=4zeHStBowEk) [+]
+
+29. [Everything You Always Wanted to Know About Memory in Python But Were Afraid to Ask](https://www.youtube.com/watch?v=hf4MKeP5oxg) [+]
+Despite the name of the talk - there is no such extraordinary thing to learn from here, because I am already aware of those things.
