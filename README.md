@@ -135,3 +135,5 @@ Despite the name of the talk - there is no such extraordinary thing to learn fro
 32. [Here be dragons: some elegant and ugly hacks in CPython by Nick Coghlan](https://www.youtube.com/watch?v=VIBmWnlDjXc) - [+] interesting talk.
 
 33. [Petr Viktorin - Bytecodes and stacks: A look at CPython’s compiler and its execution model](https://www.youtube.com/watch?v=O2lXnayJ-tQ) [+] - extremely informative details.
+
+34. [CPython byte-code and code-injection by Tom Zickel](https://www.youtube.com/watch?v=J7E6hKCGh4k) [+]
