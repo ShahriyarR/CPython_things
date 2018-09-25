@@ -1,6 +1,8 @@
 # CPython_things
 ## From Azerbaijan Python User Group for the world.
-Find us here -> [FB Group](https://www.facebook.com/groups/python.az/) and here [Telegram Group](https://t.me/azepug)
+Find us here -> [FB Group](https://www.facebook.com/groups/python.az/) 
+and here [Telegram Group](https://t.me/azepug)
+and [azepug.az](https://azepug.az/)
 
 ## This repo will consist links and resources related to CPython:
 * Aimed to be the open place for CPython things.
@@ -138,4 +140,4 @@ Despite the name of the talk - there is no such extraordinary thing to learn fro
 
 34. [CPython byte-code and code-injection by Tom Zickel](https://www.youtube.com/watch?v=J7E6hKCGh4k) [+]
 
-35. [Vlad Sydorenko — Internals of CPython memory](https://www.youtube.com/watch?v=-99tauPppoI) [-]
+35. [Vlad Sydorenko — Internals of CPython memory](https://www.youtube.com/watch?v=-99tauPppoI) [+]
