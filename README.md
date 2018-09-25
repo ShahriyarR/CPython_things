@@ -29,6 +29,10 @@ Find us here -> [FB Group](https://www.facebook.com/groups/python.az/) and here 
 
 6. [Eli Bendersky's Python Internals blog](https://eli.thegreenplace.net/tag/python-internals)
 
+7. [Understanding GIL](http://dabeaz.com/GIL/)
+
+8. [Yaniv Aknin Python internals series](https://tech.blog.aknin.name/tag/internals/)
+
 ## Video Materials/Talks:
 
 1. [CPython internals: A ten-hour codewalk through the Python interpreter source code](https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S) [+]
