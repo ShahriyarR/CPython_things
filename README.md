@@ -128,8 +128,10 @@ Techincally in-depth advance talk which is hard to catch for me now. But it is a
 29. [Everything You Always Wanted to Know About Memory in Python But Were Afraid to Ask](https://www.youtube.com/watch?v=hf4MKeP5oxg) [+]
 Despite the name of the talk - there is no such extraordinary thing to learn from here, because I am already aware of those things.
 
-30. ["Внутренности" CPython, часть II / Никита Лесников / Wargaming [Python Meetup 30.08.2013]](https://www.youtube.com/watch?v=5U496-JPQ_c&t=2s)
+30. ["Внутренности" CPython, часть II / Никита Лесников / Wargaming [Python Meetup 30.08.2013]](https://www.youtube.com/watch?v=5U496-JPQ_c&t=2s) [+]
 
-31. [Fun with cPython memory allocator](https://www.youtube.com/watch?v=l9Le_JOwgsM)
+31. [Fun with cPython memory allocator](https://www.youtube.com/watch?v=l9Le_JOwgsM) [+]
 
-32. [Here be dragons: some elegant and ugly hacks in CPython by Nick Coghlan](https://www.youtube.com/watch?v=VIBmWnlDjXc) - interesting talk.
+32. [Here be dragons: some elegant and ugly hacks in CPython by Nick Coghlan](https://www.youtube.com/watch?v=VIBmWnlDjXc) - [+] interesting talk.
+
+33. [Petr Viktorin - Bytecodes and stacks: A look at CPython’s compiler and its execution model](https://www.youtube.com/watch?v=O2lXnayJ-tQ) [+]
