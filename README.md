@@ -137,3 +137,5 @@ Despite the name of the talk - there is no such extraordinary thing to learn fro
 33. [Petr Viktorin - Bytecodes and stacks: A look at CPython’s compiler and its execution model](https://www.youtube.com/watch?v=O2lXnayJ-tQ) [+] - extremely informative details.
 
 34. [CPython byte-code and code-injection by Tom Zickel](https://www.youtube.com/watch?v=J7E6hKCGh4k) [+]
+
+35. [https://www.youtube.com/watch?v=-99tauPppoI](https://www.youtube.com/watch?v=-99tauPppoI) [-]
