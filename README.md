@@ -143,3 +143,5 @@ Despite the name of the talk - there is no such extraordinary thing to learn fro
 35. [Vlad Sydorenko — Internals of CPython memory](https://www.youtube.com/watch?v=-99tauPppoI) [+]
 
 36. [Jesús Espino - Playing with CPython Objects Internals](https://www.youtube.com/watch?v=f5Ica6AeeqE) [+] -> nice tricks with ctypes
+
+37. [Jeethu Rao - Faster Python startup](https://www.youtube.com/watch?v=KRqv2Bm1J18) [+] -> not clear what is going here.
