@@ -141,3 +141,5 @@ Despite the name of the talk - there is no such extraordinary thing to learn fro
 34. [CPython byte-code and code-injection by Tom Zickel](https://www.youtube.com/watch?v=J7E6hKCGh4k) [+]
 
 35. [Vlad Sydorenko — Internals of CPython memory](https://www.youtube.com/watch?v=-99tauPppoI) [+]
+
+36. [Jesús Espino - Playing with CPython Objects Internals](https://www.youtube.com/watch?v=f5Ica6AeeqE) [-]
