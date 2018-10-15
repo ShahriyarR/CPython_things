@@ -35,6 +35,8 @@ and [azepug.az](https://azepug.az/)
 
 8. [Yaniv Aknin Python internals series](https://tech.blog.aknin.name/tag/internals/)
 
+9. [Batuhan Tashkaya's blog](https://dev.to/btaskaya)
+
 ## Video Materials/Talks:
 
 1. [CPython internals: A ten-hour codewalk through the Python interpreter source code](https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S) [+]
