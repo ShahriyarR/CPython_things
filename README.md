@@ -35,7 +35,7 @@ and [azepug.az](https://azepug.az/)
 
 8. [Yaniv Aknin Python internals series](https://tech.blog.aknin.name/tag/internals/)
 
-9. [Batuhan Tashkaya's blog](https://dev.to/btaskaya)
+9. [Batuhan Taskaya blog](https://dev.to/btaskaya)
 
 ## Video Materials/Talks:
 
