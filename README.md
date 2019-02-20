@@ -147,3 +147,5 @@ Despite the name of the talk - there is no such extraordinary thing to learn fro
 36. [Jesús Espino - Playing with CPython Objects Internals](https://www.youtube.com/watch?v=f5Ica6AeeqE) [+] -> nice tricks with ctypes
 
 37. [Jeethu Rao - Faster Python startup](https://www.youtube.com/watch?v=KRqv2Bm1J18) [+] -> not clear what is going here.
+
+38. [Открытый урок «Внутреннее устройство интерпретатора CPython»](https://www.youtube.com/watch?v=O9LeNPiftgk) [+] -> Internal talks about CPython adding new command etc in Russian.
