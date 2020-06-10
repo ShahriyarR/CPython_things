@@ -14,6 +14,7 @@ and [azepug.az](https://azepug.az/)
 
 ## Books:
 1. [Inside The Python Virtual Machine](https://leanpub.com/insidethepythonvirtualmachine)
+2. [CPython book from realpython](https://realpython.com/products/cpython-internals-book/) - you need to purchase it.
 
 ## Repos:
 1. [Python module to modify bytecode ](https://github.com/vstinner/bytecode)
