@@ -39,6 +39,9 @@ and [azepug.az](https://azepug.az/)
 9. [Batuhan Taskaya's blog in english](https://dev.to/btaskaya) & [Batuhan Taskaya's blog in turkish](http://isidentical.com/)
 
 ## Video Materials/Talks:
+New additions:
+* [CPython Internals - by Shako](https://www.youtube.com/watch?v=PGyzVJuqJBE&list=PL0xSLrZOcI4t3WC1QDN1dE7SVoDzesUyL)
+* [Python Memory Deep Dive for Speed and Efficiency](https://www.youtube.com/watch?v=d9mSIEIcTpo)
 
 1. [CPython internals: A ten-hour codewalk through the Python interpreter source code](https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S) [+]
 
